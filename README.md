@@ -1,1 +1,1 @@
-# concurrency-theory-AGH
+# Concurrency theory AGH University
